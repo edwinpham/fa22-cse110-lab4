@@ -1,0 +1,2 @@
+1. The bug was that two strings were being added instead of two int so the result outputs the combination of those two strings instead of addings the two integer values.
+2. Typecast the two strings into integers.
